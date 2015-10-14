@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+	<message>
+		<id>1</id>
+		<parent_id>0</parent_id>
+		<username>Александр Пушкин</username>
+		<msg_date>13.10.2015 22:41:10</msg_date>
+		<msg_text>Очень хороший сайт. Спасибо!</msg_text>
+		<key/>
+	</message>
+	<message>
+		<id>2</id>
+		<parent_id>0</parent_id>
+		<username>Лев Толстой</username>
+		<msg_date>13.10.2015 22:42:03</msg_date>
+		<msg_text>Мало текста только.</msg_text>
+		<key/>
+	</message>
+	<message>
+		<id>3</id>
+		<parent_id>0</parent_id>
+		<username>Александр Пушкин</username>
+		<msg_date>13.10.2015 22:43:12</msg_date>
+		<msg_text>Пиши еще!</msg_text>
+		<key/>
+	</message>
+	<message>
+		<id>4</id>
+		<parent_id>2</parent_id>
+		<username>Михаил Лермонтов</username>
+		<msg_date>13.10.2015 22:45:12</msg_date>
+		<msg_text>Да в самый раз, Лёва...</msg_text>
+		<key/>
+	</message>
+	<message>
+		<id>5</id>
+		<parent_id>4_2</parent_id>
+		<username>Лев Толстой</username>
+		<msg_date>13.10.2015 22:46:12</msg_date>
+		<msg_text>Я вот больше пишу, больше</msg_text>
+		<key/>
+	</message>
+</messages>
