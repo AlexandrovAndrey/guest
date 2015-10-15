@@ -14,12 +14,12 @@ h1 {
 	font-style:italic;
 	padding: 15px 10px 5px 0;
 }
-.messages {
+.message_block {
 	margin-left: auto;
     margin-right: auto;
     width: 50em;
 }
-.author a {
+.message_header a {
 	color: red;
 	padding: 0 0 0 10px;
 	float: right;
@@ -31,4 +31,19 @@ h1 {
 .answer-answer {
 	padding: 5px 10px 5px 30px;
 	background-color: #FDF5E6;	
+}
+.message_header{
+	font-size: .9em;
+	margin-bottom: 5px;
+	color: grey;
+}
+.message_controls {
+	margin-top: 10px;
+	font-size: .9em;
+}
+.message{
+	margin-top: 15px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #ccc;
 }
