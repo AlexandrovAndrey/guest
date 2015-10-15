@@ -11,12 +11,17 @@
 	</head>
 	<body>
 	<h1>Гостевая книга</h1>	
+
 	<!--<div class="messages" id="messages">-->
+
+
 		<div class="message_block">
 			<div class="add_new_message"><a href="javascript:;">добавить запись</a></div>
 		</div>
 
 		<?php include('./php/template.php') ?>
+
+
 
 		<!--<div class="author" id="author">Василий Тёркин 14.10.2015 20:30<a href="javascript:;">редактировать</a><a href="javascript:;">ответить</a></div> 
 		
